@@ -21,7 +21,7 @@ class Student
    }
    void display()
    {
-       System.out.println(id+" "+name);
+       System.out.println(id+" "+name+" "+cname);
    }
 }
 public class Staticvariableexample1 {
